@@ -1,6 +1,5 @@
-# 👋🧩 Morphe Patches template
+# 👋🧩 RvdFeen Morphe patches
 
-Template repository for Morphe Patches.
 
 &nbsp;
 ## 🩹 Patches list
